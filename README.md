@@ -1,10 +1,10 @@
 ########## CFG_Nano_Project_Travel
 
-# Developers:  Teresa Diaz Calvo, Amelia Bourton, Dumisile Mbuthuma, Rosalind Grubin and Nicole Chan.
-
 ##### App name
 
-TravelApp
+# TravelApp
+
+Developers:  Teresa Diaz Calvo, Amelia Bourton, Dumisile Mbuthuma, Rosalind Grubin and Nicole Chan.
 
 ##### About TravelApp
 
